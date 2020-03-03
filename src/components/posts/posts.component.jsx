@@ -17,10 +17,14 @@ export class Posts extends Component {
 
     render() {
         return (
-            <div>
+            <div className="container">
+            <h1>Posts without HOC</h1>
             {
                 this.state.posts.map( post => (
-                    <h2 key={post.id}>{post.title}</h2>
+                    <div className='post' key={post.id}>
+                        <h2>{post.title}</h2>
+                        <p>{post.body}</p>
+                    </div>
                 ))
             }
             </div>

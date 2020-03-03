@@ -9,7 +9,7 @@ const UserProfile = ({ data, name, email }) => (
     <h1>Posts</h1>
     {data.map(post => (
       <div className='post' key={post.id}>
-        <h1>{post.title}</h1>
+        <h2>{post.title}</h2>
         <p> {post.body} </p>
       </div>
     ))}

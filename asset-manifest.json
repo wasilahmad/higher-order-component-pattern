@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wasilahmad/react-hoc-pattern/static/css/main.7a5b589d.chunk.css",
-    "main.js": "/wasilahmad/react-hoc-pattern/static/js/main.21cb92c0.chunk.js",
-    "main.js.map": "/wasilahmad/react-hoc-pattern/static/js/main.21cb92c0.chunk.js.map",
-    "runtime-main.js": "/wasilahmad/react-hoc-pattern/static/js/runtime-main.dcddac68.js",
-    "runtime-main.js.map": "/wasilahmad/react-hoc-pattern/static/js/runtime-main.dcddac68.js.map",
-    "static/js/2.f715f4a5.chunk.js": "/wasilahmad/react-hoc-pattern/static/js/2.f715f4a5.chunk.js",
-    "static/js/2.f715f4a5.chunk.js.map": "/wasilahmad/react-hoc-pattern/static/js/2.f715f4a5.chunk.js.map",
-    "index.html": "/wasilahmad/react-hoc-pattern/index.html",
-    "precache-manifest.f73b82d65985e2f0d94b73119c6612ba.js": "/wasilahmad/react-hoc-pattern/precache-manifest.f73b82d65985e2f0d94b73119c6612ba.js",
-    "service-worker.js": "/wasilahmad/react-hoc-pattern/service-worker.js",
-    "static/css/main.7a5b589d.chunk.css.map": "/wasilahmad/react-hoc-pattern/static/css/main.7a5b589d.chunk.css.map",
-    "static/js/2.f715f4a5.chunk.js.LICENSE.txt": "/wasilahmad/react-hoc-pattern/static/js/2.f715f4a5.chunk.js.LICENSE.txt"
+    "main.css": "/wasilahmad/higher-order-component-pattern/static/css/main.7a5b589d.chunk.css",
+    "main.js": "/wasilahmad/higher-order-component-pattern/static/js/main.a25be802.chunk.js",
+    "main.js.map": "/wasilahmad/higher-order-component-pattern/static/js/main.a25be802.chunk.js.map",
+    "runtime-main.js": "/wasilahmad/higher-order-component-pattern/static/js/runtime-main.3f64b19c.js",
+    "runtime-main.js.map": "/wasilahmad/higher-order-component-pattern/static/js/runtime-main.3f64b19c.js.map",
+    "static/js/2.f715f4a5.chunk.js": "/wasilahmad/higher-order-component-pattern/static/js/2.f715f4a5.chunk.js",
+    "static/js/2.f715f4a5.chunk.js.map": "/wasilahmad/higher-order-component-pattern/static/js/2.f715f4a5.chunk.js.map",
+    "index.html": "/wasilahmad/higher-order-component-pattern/index.html",
+    "precache-manifest.2ee5863f6c7e81278281cee48d0419e5.js": "/wasilahmad/higher-order-component-pattern/precache-manifest.2ee5863f6c7e81278281cee48d0419e5.js",
+    "service-worker.js": "/wasilahmad/higher-order-component-pattern/service-worker.js",
+    "static/css/main.7a5b589d.chunk.css.map": "/wasilahmad/higher-order-component-pattern/static/css/main.7a5b589d.chunk.css.map",
+    "static/js/2.f715f4a5.chunk.js.LICENSE.txt": "/wasilahmad/higher-order-component-pattern/static/js/2.f715f4a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcddac68.js",
+    "static/js/runtime-main.3f64b19c.js",
     "static/js/2.f715f4a5.chunk.js",
     "static/css/main.7a5b589d.chunk.css",
-    "static/js/main.21cb92c0.chunk.js"
+    "static/js/main.a25be802.chunk.js"
   ]
 }

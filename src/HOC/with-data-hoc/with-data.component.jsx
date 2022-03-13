@@ -15,7 +15,7 @@ const WithData = (WrappedComponent) => {
             setTimeout(() => {
                 fetch(this.props.dataSource)
                 .then( response => response.json())
-                .then( data => this.setState({data: data.slice(0, 10)}));
+                .then( data => this.setState({data: data.slice(0, 3)}));
             }, 1500 );            
         }
 

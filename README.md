@@ -1,15 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo
+[Tutorial Demo: https://wasilahmad.github.io/higher-order-component-pattern/](https://wasilahmad.github.io/higher-order-component-pattern/)
+
+![Screenshot](https://github.com/wasilahmad/higher-order-component-pattern/blob/master/public/react-HOC-pattern.png 'Tutorial Screenshot')
+
+
+## What You'll Learn
+-   What is Higher Order Component
+-   Use of HOC in real world scenario
+-   Use of Async call in HOC
+-   Fetching data from Jsonplaceholder API
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+### Install dependencies
+npm install
 
-### `yarn start or npm start`
+### Start the project
+npm run start
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Navigate to http://localhost:3000
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-Demo Link : https://wasilahmad.github.io/higher-order-component-pattern/
